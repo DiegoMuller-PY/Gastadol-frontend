@@ -1,5 +1,5 @@
 Gastadol Client - Financial Management Ecosystem
-Autor: Diego Muller Cox y DAvid Herrera| Estado: Prototipado y Desarrollo de UI
+Autor: Diego Muller y David Herrera| Estado: Prototipado y Desarrollo de UI
 
 Descripción del Proyecto
 Esta es la interfaz de usuario de Gastadol, una plataforma diseñada para centralizar y automatizar la gestión patrimonial personal. El frontend actúa como un centro de visualización para los datos procesados por el ecosistema de microservicios, permitiendo un seguimiento eficiente de flujos de caja y presupuestos.
